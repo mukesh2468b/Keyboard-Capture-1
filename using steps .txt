@@ -1,0 +1,9 @@
+starting a keylogger
+node keylogger.js using powershell in project folder
+
+start the web server  to see key logs in web browser
+node server.js
+
+then go to http://localhost:3000 to view the logged keys in web browser
+
+done !!!
